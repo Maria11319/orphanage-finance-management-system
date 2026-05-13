@@ -11,7 +11,6 @@ function Dashboard() {
   );
 }
 
-export default Dashboard;
 
 import { useEffect, useState } from "react";
 import StatsCard from "../components/StatsCard";
